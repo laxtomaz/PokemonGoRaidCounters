@@ -1,0 +1,857 @@
+[
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Fighting",
+    "filterString": "@1Fighting,@1Flying,@1Fairy,@1Psychic&@2Fighting,@2Flying,@2Fairy,@2Psychic,@3Fighting,@3Flying,@3Fairy,@3Psychic"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Flying",
+    "filterString": "@1Electric,@1Ice,@1Rock&@2Electric,@2Ice,@2Rock,@3Electric,@3Ice,@3Rock"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Poison",
+    "filterString": "@1Ground,@1Psychic&@2Ground,@2Psychic,@3Ground,@3Psychic"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Ground",
+    "filterString": "@1Fighting,@1Grass,@1Ice,@1Water&@2Fighting,@2Grass,@2Ice,@2Water,@3Fighting,@3Grass,@3Ice,@3Water"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Rock",
+    "filterString": "@1Fighting,@1Grass,@1Ground,@1Steel,@1Water&@2Fighting,@2Grass,@2Ground,@2Steel,@2Water,@3Fighting,@3Grass,@3Ground,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Bug",
+    "filterString": "@1Fire,@1Flying,@1Rock&@2Fire,@2Flying,@2Rock,@3Fire,@3Flying,@3Rock"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Ghost",
+    "filterString": "@1Dark&@2Dark,@3Dark"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Steel",
+    "filterString": "@1Fighting,@1Fire,@1Ground&@2Fighting,@2Fire,@2Ground,@3Fighting,@3Fire,@3Ground"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Fire",
+    "filterString": "@1Fighting,@1Ground,@1Rock,@1Water&@2Fighting,@2Ground,@2Rock,@2Water,@3Fighting,@3Ground,@3Rock,@3Water"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Water",
+    "filterString": "@1Electric,@1Fighting,@1Grass&@2Electric,@2Fighting,@2Grass,@3Electric,@3Fighting,@3Grass"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Grass",
+    "filterString": "@1Bug,@1Fighting,@1Fire,@1Flying,@1Ice,@1Poison&@2Bug,@2Fighting,@2Fire,@2Flying,@2Ice,@2Poison,@3Bug,@3Fighting,@3Fire,@3Flying,@3Ice,@3Poison"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Electric",
+    "filterString": "@1Fighting,@1Ground&@2Fighting,@2Ground,@3Fighting,@3Ground"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Psychic",
+    "filterString": "@1Bug,@1Dark&@2Bug,@2Dark,@3Bug,@3Dark"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Ice",
+    "filterString": "@1Fighting,@1Fire,@1Rock,@1Steel&@2Fighting,@2Fire,@2Rock,@2Steel,@3Fighting,@3Fire,@3Rock,@3Steel"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Dragon",
+    "filterString": "@1Dragon,@1Fighting,@1Fairy,@1Ice&@2Dragon,@2Fighting,@2Fairy,@2Ice,@3Dragon,@3Fighting,@3Fairy,@3Ice"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Dark",
+    "filterString": "@1Bug,@1Fighting,@1Fairy&@2Bug,@2Fighting,@2Fairy,@3Bug,@3Fighting,@3Fairy"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Fairy",
+    "filterString": "@1Poison,@1Steel&@2Poison,@2Steel,@3Poison,@3Steel"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Flying",
+    "filterString": "@1Electric,@1Flying,@1Fairy,@1Ice,@1Psychic&@2Electric,@2Flying,@2Fairy,@2Ice,@2Psychic,@3Electric,@3Flying,@3Fairy,@3Ice,@3Psychic"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Poison",
+    "filterString": "@1Flying,@1Ground,@1Psychic&@2Flying,@2Ground,@2Psychic,@3Flying,@3Ground,@3Psychic"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Ground",
+    "filterString": "@1Flying,@1Grass,@1Fairy,@1Ice,@1Psychic,@1Water&@2Flying,@2Grass,@2Fairy,@2Ice,@2Psychic,@2Water,@3Flying,@3Grass,@3Fairy,@3Ice,@3Psychic,@3Water"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Rock",
+    "filterString": "@1Fighting,@1Grass,@1Ground,@1Fairy,@1Psychic,@1Steel,@1Water&@2Fighting,@2Grass,@2Ground,@2Fairy,@2Psychic,@2Steel,@2Water,@3Fighting,@3Grass,@3Ground,@3Fairy,@3Psychic,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Bug",
+    "filterString": "@1Fire,@1Flying,@1Fairy,@1Psychic&@2Fire,@2Flying,@2Fairy,@2Psychic,@3Fire,@3Flying,@3Fairy,@3Psychic"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Ghost",
+    "filterString": "@1Flying,@1Ghost,@1Fairy,@1Psychic&@2Flying,@2Ghost,@2Fairy,@2Psychic,@3Flying,@3Ghost,@3Fairy,@3Psychic"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Steel",
+    "filterString": "@1Fighting,@1Fire,@1Ground&@2Fighting,@2Fire,@2Ground,@3Fighting,@3Fire,@3Ground"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Fire",
+    "filterString": "@1Flying,@1Ground,@1Psychic,@1Water&@2Flying,@2Ground,@2Psychic,@2Water,@3Flying,@3Ground,@3Psychic,@3Water"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Water",
+    "filterString": "@1Electric,@1Flying,@1Grass,@1Fairy,@1Psychic&@2Electric,@2Flying,@2Grass,@2Fairy,@2Psychic,@3Electric,@3Flying,@3Grass,@3Fairy,@3Psychic"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Grass",
+    "filterString": "@1Fire,@1Flying,@1Fairy,@1Ice,@1Poison,@1Psychic&@2Fire,@2Flying,@2Fairy,@2Ice,@2Poison,@2Psychic,@3Fire,@3Flying,@3Fairy,@3Ice,@3Poison,@3Psychic"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Electric",
+    "filterString": "@1Ground,@1Fairy,@1Psychic&@2Ground,@2Fairy,@2Psychic,@3Ground,@3Fairy,@3Psychic"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Psychic",
+    "filterString": "@1Flying,@1Ghost,@1Fairy&@2Flying,@2Ghost,@2Fairy,@3Flying,@3Ghost,@3Fairy"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Ice",
+    "filterString": "@1Fighting,@1Fire,@1Flying,@1Fairy,@1Psychic,@1Steel&@2Fighting,@2Fire,@2Flying,@2Fairy,@2Psychic,@2Steel,@3Fighting,@3Fire,@3Flying,@3Fairy,@3Psychic,@3Steel"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Dragon",
+    "filterString": "@1Dragon,@1Flying,@1Fairy,@1Ice,@1Psychic&@2Dragon,@2Flying,@2Fairy,@2Ice,@2Psychic,@3Dragon,@3Flying,@3Fairy,@3Ice,@3Psychic"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Dark",
+    "filterString": "@1Fighting,@1Flying,@1Fairy&@2Fighting,@2Flying,@2Fairy,@3Fighting,@3Flying,@3Fairy"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Fairy",
+    "filterString": "@1Flying,@1Fairy,@1Poison,@1Psychic,@1Steel&@2Flying,@2Fairy,@2Poison,@2Psychic,@2Steel,@3Flying,@3Fairy,@3Poison,@3Psychic,@3Steel"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Poison",
+    "filterString": "@1Electric,@1Ice,@1Psychic,@1Rock&@2Electric,@2Ice,@2Psychic,@2Rock,@3Electric,@3Ice,@3Psychic,@3Rock"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Ground",
+    "filterString": "@1Ice,@1Water&@2Ice,@2Water,@3Ice,@3Water"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Rock",
+    "filterString": "@1Electric,@1Ice,@1Rock,@1Steel,@1Water&@2Electric,@2Ice,@2Rock,@2Steel,@2Water,@3Electric,@3Ice,@3Rock,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Bug",
+    "filterString": "@1Electric,@1Fire,@1Flying,@1Ice,@1Rock&@2Electric,@2Fire,@2Flying,@2Ice,@2Rock,@3Electric,@3Fire,@3Flying,@3Ice,@3Rock"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Ghost",
+    "filterString": "@1Dark,@1Electric,@1Ghost,@1Ice,@1Rock&@2Dark,@2Electric,@2Ghost,@2Ice,@2Rock,@3Dark,@3Electric,@3Ghost,@3Ice,@3Rock"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Steel",
+    "filterString": "@1Electric,@1Fire&@2Electric,@2Fire,@3Electric,@3Fire"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Fire",
+    "filterString": "@1Electric,@1Rock,@1Water&@2Electric,@2Rock,@2Water,@3Electric,@3Rock,@3Water"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Water",
+    "filterString": "@1Electric,@1Rock&@2Electric,@2Rock,@3Electric,@3Rock"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Grass",
+    "filterString": "@1Fire,@1Flying,@1Ice,@1Poison,@1Rock&@2Fire,@2Flying,@2Ice,@2Poison,@2Rock,@3Fire,@3Flying,@3Ice,@3Poison,@3Rock"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Electric",
+    "filterString": "@1Ice,@1Rock&@2Ice,@2Rock,@3Ice,@3Rock"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Psychic",
+    "filterString": "@1Dark,@1Electric,@1Ghost,@1Ice,@1Rock&@2Dark,@2Electric,@2Ghost,@2Ice,@2Rock,@3Dark,@3Electric,@3Ghost,@3Ice,@3Rock"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Ice",
+    "filterString": "@1Electric,@1Fire,@1Rock,@1Steel&@2Electric,@2Fire,@2Rock,@2Steel,@3Electric,@3Fire,@3Rock,@3Steel"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Dragon",
+    "filterString": "@1Dragon,@1Fairy,@1Ice,@1Rock&@2Dragon,@2Fairy,@2Ice,@2Rock,@3Dragon,@3Fairy,@3Ice,@3Rock"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Dark",
+    "filterString": "@1Electric,@1Fairy,@1Ice,@1Rock&@2Electric,@2Fairy,@2Ice,@2Rock,@3Electric,@3Fairy,@3Ice,@3Rock"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": "Fairy",
+    "filterString": "@1Electric,@1Ice,@1Poison,@1Rock,@1Steel&@2Electric,@2Ice,@2Poison,@2Rock,@2Steel,@3Electric,@3Ice,@3Poison,@3Rock,@3Steel"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Ground",
+    "filterString": "@1Ground,@1Ice,@1Psychic,@1Water&@2Ground,@2Ice,@2Psychic,@2Water,@3Ground,@3Ice,@3Psychic,@3Water"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Rock",
+    "filterString": "@1Ground,@1Psychic,@1Steel,@1Water&@2Ground,@2Psychic,@2Steel,@2Water,@3Ground,@3Psychic,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Bug",
+    "filterString": "@1Fire,@1Flying,@1Psychic,@1Rock&@2Fire,@2Flying,@2Psychic,@2Rock,@3Fire,@3Flying,@3Psychic,@3Rock"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Ghost",
+    "filterString": "@1Dark,@1Ghost,@1Ground,@1Psychic&@2Dark,@2Ghost,@2Ground,@2Psychic,@3Dark,@3Ghost,@3Ground,@3Psychic"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Steel",
+    "filterString": "@1Fire,@1Ground&@2Fire,@2Ground,@3Fire,@3Ground"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Fire",
+    "filterString": "@1Ground,@1Psychic,@1Rock,@1Water&@2Ground,@2Psychic,@2Rock,@2Water,@3Ground,@3Psychic,@3Rock,@3Water"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Water",
+    "filterString": "@1Electric,@1Ground,@1Psychic&@2Electric,@2Ground,@2Psychic,@3Electric,@3Ground,@3Psychic"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Grass",
+    "filterString": "@1Fire,@1Flying,@1Ice,@1Psychic&@2Fire,@2Flying,@2Ice,@2Psychic,@3Fire,@3Flying,@3Ice,@3Psychic"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Electric",
+    "filterString": "@1Ground,@1Psychic&@2Ground,@2Psychic,@3Ground,@3Psychic"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Psychic",
+    "filterString": "@1Dark,@1Ghost,@1Ground&@2Dark,@2Ghost,@2Ground,@3Dark,@3Ghost,@3Ground"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Ice",
+    "filterString": "@1Fire,@1Ground,@1Psychic,@1Rock,@1Steel&@2Fire,@2Ground,@2Psychic,@2Rock,@2Steel,@3Fire,@3Ground,@3Psychic,@3Rock,@3Steel"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Dragon",
+    "filterString": "@1Dragon,@1Ground,@1Ice,@1Psychic&@2Dragon,@2Ground,@2Ice,@2Psychic,@3Dragon,@3Ground,@3Ice,@3Psychic"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Dark",
+    "filterString": "@1Ground&@2Ground,@3Ground"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Fairy",
+    "filterString": "@1Ground,@1Psychic,@1Steel&@2Ground,@2Psychic,@2Steel,@3Ground,@3Psychic,@3Steel"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Rock",
+    "filterString": "@1Fighting,@1Grass,@1Ground,@1Ice,@1Steel,@1Water&@2Fighting,@2Grass,@2Ground,@2Ice,@2Steel,@2Water,@3Fighting,@3Grass,@3Ground,@3Ice,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Bug",
+    "filterString": "@1Fire,@1Flying,@1Ice,@1Water&@2Fire,@2Flying,@2Ice,@2Water,@3Fire,@3Flying,@3Ice,@3Water"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Ghost",
+    "filterString": "@1Dark,@1Ghost,@1Grass,@1Ice,@1Water&@2Dark,@2Ghost,@2Grass,@2Ice,@2Water,@3Dark,@3Ghost,@3Grass,@3Ice,@3Water"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Steel",
+    "filterString": "@1Fighting,@1Fire,@1Ground,@1Water&@2Fighting,@2Fire,@2Ground,@2Water,@3Fighting,@3Fire,@3Ground,@3Water"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Fire",
+    "filterString": "@1Ground,@1Water&@2Ground,@2Water,@3Ground,@3Water"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Water",
+    "filterString": "@1Grass&@2Grass,@3Grass"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Grass",
+    "filterString": "@1Bug,@1Fire,@1Flying,@1Ice&@2Bug,@2Fire,@2Flying,@2Ice,@3Bug,@3Fire,@3Flying,@3Ice"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Electric",
+    "filterString": "@1Grass,@1Ground,@1Ice,@1Water&@2Grass,@2Ground,@2Ice,@2Water,@3Grass,@3Ground,@3Ice,@3Water"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Psychic",
+    "filterString": "@1Bug,@1Dark,@1Ghost,@1Grass,@1Ice,@1Water&@2Bug,@2Dark,@2Ghost,@2Grass,@2Ice,@2Water,@3Bug,@3Dark,@3Ghost,@3Grass,@3Ice,@3Water"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Ice",
+    "filterString": "@1Fighting,@1Fire,@1Grass,@1Steel,@1Water&@2Fighting,@2Fire,@2Grass,@2Steel,@2Water,@3Fighting,@3Fire,@3Grass,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Dragon",
+    "filterString": "@1Dragon,@1Fairy,@1Ice&@2Dragon,@2Fairy,@2Ice,@3Dragon,@3Fairy,@3Ice"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Dark",
+    "filterString": "@1Bug,@1Fighting,@1Grass,@1Fairy,@1Ice,@1Water&@2Bug,@2Fighting,@2Grass,@2Fairy,@2Ice,@2Water,@3Bug,@3Fighting,@3Grass,@3Fairy,@3Ice,@3Water"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Fairy",
+    "filterString": "@1Grass,@1Ice,@1Steel,@1Water&@2Grass,@2Ice,@2Steel,@2Water,@3Grass,@3Ice,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Bug",
+    "filterString": "@1Rock,@1Steel,@1Water&@2Rock,@2Steel,@2Water,@3Rock,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Ghost",
+    "filterString": "@1Dark,@1Ghost,@1Grass,@1Ground,@1Steel,@1Water&@2Dark,@2Ghost,@2Grass,@2Ground,@2Steel,@2Water,@3Dark,@3Ghost,@3Grass,@3Ground,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Steel",
+    "filterString": "@1Fighting,@1Ground,@1Water&@2Fighting,@2Ground,@2Water,@3Fighting,@3Ground,@3Water"
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Fire",
+    "filterString": "@1Fighting,@1Ground,@1Rock,@1Water&@2Fighting,@2Ground,@2Rock,@2Water,@3Fighting,@3Ground,@3Rock,@3Water"
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Water",
+    "filterString": "@1Electric,@1Fighting,@1Grass,@1Ground&@2Electric,@2Fighting,@2Grass,@2Ground,@3Electric,@3Fighting,@3Grass,@3Ground"
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Grass",
+    "filterString": "@1Bug,@1Fighting,@1Ice,@1Steel&@2Bug,@2Fighting,@2Ice,@2Steel,@3Bug,@3Fighting,@3Ice,@3Steel"
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Electric",
+    "filterString": "@1Fighting,@1Grass,@1Ground,@1Water&@2Fighting,@2Grass,@2Ground,@2Water,@3Fighting,@3Grass,@3Ground,@3Water"
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Psychic",
+    "filterString": "@1Bug,@1Dark,@1Ghost,@1Grass,@1Ground,@1Steel,@1Water&@2Bug,@2Dark,@2Ghost,@2Grass,@2Ground,@2Steel,@2Water,@3Bug,@3Dark,@3Ghost,@3Grass,@3Ground,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Ice",
+    "filterString": "@1Fighting,@1Grass,@1Ground,@1Rock,@1Steel,@1Water&@2Fighting,@2Grass,@2Ground,@2Rock,@2Steel,@2Water,@3Fighting,@3Grass,@3Ground,@3Rock,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Dragon",
+    "filterString": "@1Dragon,@1Fighting,@1Ground,@1Fairy,@1Ice,@1Steel&@2Dragon,@2Fighting,@2Ground,@2Fairy,@2Ice,@2Steel,@3Dragon,@3Fighting,@3Ground,@3Fairy,@3Ice,@3Steel"
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Dark",
+    "filterString": "@1Bug,@1Fighting,@1Grass,@1Ground,@1Fairy,@1Steel,@1Water&@2Bug,@2Fighting,@2Grass,@2Ground,@2Fairy,@2Steel,@2Water,@3Bug,@3Fighting,@3Grass,@3Ground,@3Fairy,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Fairy",
+    "filterString": "@1Grass,@1Ground,@1Steel,@1Water&@2Grass,@2Ground,@2Steel,@2Water,@3Grass,@3Ground,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Ghost",
+    "filterString": "@1Dark,@1Fire,@1Flying,@1Ghost,@1Rock&@2Dark,@2Fire,@2Flying,@2Ghost,@2Rock,@3Dark,@3Fire,@3Flying,@3Ghost,@3Rock"
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Steel",
+    "filterString": "@1Fire&@2Fire,@3Fire"
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Fire",
+    "filterString": "@1Flying,@1Rock,@1Water&@2Flying,@2Rock,@2Water,@3Flying,@3Rock,@3Water"
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Water",
+    "filterString": "@1Electric,@1Flying,@1Rock&@2Electric,@2Flying,@2Rock,@3Electric,@3Flying,@3Rock"
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Grass",
+    "filterString": "@1Bug,@1Fire,@1Flying,@1Ice,@1Poison,@1Rock&@2Bug,@2Fire,@2Flying,@2Ice,@2Poison,@2Rock,@3Bug,@3Fire,@3Flying,@3Ice,@3Poison,@3Rock"
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Electric",
+    "filterString": "@1Fire,@1Rock&@2Fire,@2Rock,@3Fire,@3Rock"
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Psychic",
+    "filterString": "@1Bug,@1Dark,@1Fire,@1Flying,@1Ghost,@1Rock&@2Bug,@2Dark,@2Fire,@2Flying,@2Ghost,@2Rock,@3Bug,@3Dark,@3Fire,@3Flying,@3Ghost,@3Rock"
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Ice",
+    "filterString": "@1Fire,@1Flying,@1Rock,@1Steel&@2Fire,@2Flying,@2Rock,@2Steel,@3Fire,@3Flying,@3Rock,@3Steel"
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Dragon",
+    "filterString": "@1Dragon,@1Flying,@1Fairy,@1Ice,@1Rock&@2Dragon,@2Flying,@2Fairy,@2Ice,@2Rock,@3Dragon,@3Flying,@3Fairy,@3Ice,@3Rock"
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Dark",
+    "filterString": "@1Bug,@1Fire,@1Flying,@1Fairy,@1Rock&@2Bug,@2Fire,@2Flying,@2Fairy,@2Rock,@3Bug,@3Fire,@3Flying,@3Fairy,@3Rock"
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Fairy",
+    "filterString": "@1Fire,@1Flying,@1Poison,@1Rock,@1Steel&@2Fire,@2Flying,@2Poison,@2Rock,@2Steel,@3Fire,@3Flying,@3Poison,@3Rock,@3Steel"
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Steel",
+    "filterString": "@1Dark,@1Fire,@1Ghost,@1Ground&@2Dark,@2Fire,@2Ghost,@2Ground,@3Dark,@3Fire,@3Ghost,@3Ground"
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Fire",
+    "filterString": "@1Dark,@1Ghost,@1Ground,@1Rock,@1Water&@2Dark,@2Ghost,@2Ground,@2Rock,@2Water,@3Dark,@3Ghost,@3Ground,@3Rock,@3Water"
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Water",
+    "filterString": "@1Dark,@1Electric,@1Ghost,@1Grass&@2Dark,@2Electric,@2Ghost,@2Grass,@3Dark,@3Electric,@3Ghost,@3Grass"
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Grass",
+    "filterString": "@1Dark,@1Fire,@1Flying,@1Ghost,@1Ice&@2Dark,@2Fire,@2Flying,@2Ghost,@2Ice,@3Dark,@3Fire,@3Flying,@3Ghost,@3Ice"
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Electric",
+    "filterString": "@1Dark,@1Ghost,@1Ground&@2Dark,@2Ghost,@2Ground,@3Dark,@3Ghost,@3Ground"
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Psychic",
+    "filterString": "@1Dark,@1Ghost&@2Dark,@2Ghost,@3Dark,@3Ghost"
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Ice",
+    "filterString": "@1Dark,@1Fire,@1Ghost,@1Rock,@1Steel&@2Dark,@2Fire,@2Ghost,@2Rock,@2Steel,@3Dark,@3Fire,@3Ghost,@3Rock,@3Steel"
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Dragon",
+    "filterString": "@1Dark,@1Dragon,@1Ghost,@1Fairy,@1Ice&@2Dark,@2Dragon,@2Ghost,@2Fairy,@2Ice,@3Dark,@3Dragon,@3Ghost,@3Fairy,@3Ice"
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Dark",
+    "filterString": "@1Fairy&@2Fairy,@3Fairy"
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Fairy",
+    "filterString": "@1Ghost,@1Steel&@2Ghost,@2Steel,@3Ghost,@3Steel"
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Fire",
+    "filterString": "@1Fighting,@1Ground,@1Water&@2Fighting,@2Ground,@2Water,@3Fighting,@3Ground,@3Water"
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Water",
+    "filterString": "@1Electric,@1Fighting,@1Ground&@2Electric,@2Fighting,@2Ground,@3Electric,@3Fighting,@3Ground"
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Grass",
+    "filterString": "@1Fighting,@1Fire&@2Fighting,@2Fire,@3Fighting,@3Fire"
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Electric",
+    "filterString": "@1Fighting,@1Fire,@1Ground&@2Fighting,@2Fire,@2Ground,@3Fighting,@3Fire,@3Ground"
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Psychic",
+    "filterString": "@1Dark,@1Fire,@1Ghost,@1Ground&@2Dark,@2Fire,@2Ghost,@2Ground,@3Dark,@3Fire,@3Ghost,@3Ground"
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Ice",
+    "filterString": "@1Fighting,@1Fire,@1Ground&@2Fighting,@2Fire,@2Ground,@3Fighting,@3Fire,@3Ground"
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Dragon",
+    "filterString": "@1Fighting,@1Ground&@2Fighting,@2Ground,@3Fighting,@3Ground"
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Dark",
+    "filterString": "@1Fighting,@1Fire,@1Ground&@2Fighting,@2Fire,@2Ground,@3Fighting,@3Fire,@3Ground"
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Fairy",
+    "filterString": "@1Fire,@1Ground&@2Fire,@2Ground,@3Fire,@3Ground"
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Water",
+    "filterString": "@1Electric,@1Ground,@1Rock&@2Electric,@2Ground,@2Rock,@3Electric,@3Ground,@3Rock"
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Grass",
+    "filterString": "@1Flying,@1Poison,@1Rock&@2Flying,@2Poison,@2Rock,@3Flying,@3Poison,@3Rock"
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Electric",
+    "filterString": "@1Ground,@1Rock,@1Water&@2Ground,@2Rock,@2Water,@3Ground,@3Rock,@3Water"
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Psychic",
+    "filterString": "@1Dark,@1Ghost,@1Ground,@1Rock,@1Water&@2Dark,@2Ghost,@2Ground,@2Rock,@2Water,@3Dark,@3Ghost,@3Ground,@3Rock,@3Water"
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Ice",
+    "filterString": "@1Fighting,@1Ground,@1Rock,@1Water&@2Fighting,@2Ground,@2Rock,@2Water,@3Fighting,@3Ground,@3Rock,@3Water"
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Dragon",
+    "filterString": "@1Dragon,@1Ground,@1Rock&@2Dragon,@2Ground,@2Rock,@3Dragon,@3Ground,@3Rock"
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Dark",
+    "filterString": "@1Fighting,@1Ground,@1Rock,@1Water&@2Fighting,@2Ground,@2Rock,@2Water,@3Fighting,@3Ground,@3Rock,@3Water"
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Fairy",
+    "filterString": "@1Ground,@1Poison,@1Rock,@1Water&@2Ground,@2Poison,@2Rock,@2Water,@3Ground,@3Poison,@3Rock,@3Water"
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Grass",
+    "filterString": "@1Bug,@1Flying,@1Poison&@2Bug,@2Flying,@2Poison,@3Bug,@3Flying,@3Poison"
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Electric",
+    "filterString": "@1Grass,@1Ground&@2Grass,@2Ground,@3Grass,@3Ground"
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Psychic",
+    "filterString": "@1Bug,@1Dark,@1Electric,@1Ghost,@1Grass&@2Bug,@2Dark,@2Electric,@2Ghost,@2Grass,@3Bug,@3Dark,@3Electric,@3Ghost,@3Grass"
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Ice",
+    "filterString": "@1Electric,@1Fighting,@1Grass,@1Rock&@2Electric,@2Fighting,@2Grass,@2Rock,@3Electric,@3Fighting,@3Grass,@3Rock"
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Dragon",
+    "filterString": "@1Dragon,@1Fairy&@2Dragon,@2Fairy,@3Dragon,@3Fairy"
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Dark",
+    "filterString": "@1Bug,@1Electric,@1Fighting,@1Grass,@1Fairy&@2Bug,@2Electric,@2Fighting,@2Grass,@2Fairy,@3Bug,@3Electric,@3Fighting,@3Grass,@3Fairy"
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Fairy",
+    "filterString": "@1Electric,@1Grass,@1Poison&@2Electric,@2Grass,@2Poison,@3Electric,@3Grass,@3Poison"
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Electric",
+    "filterString": "@1Bug,@1Fire,@1Ice,@1Poison&@2Bug,@2Fire,@2Ice,@2Poison,@3Bug,@3Fire,@3Ice,@3Poison"
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Psychic",
+    "filterString": "@1Bug,@1Dark,@1Fire,@1Flying,@1Ghost,@1Ice,@1Poison&@2Bug,@2Dark,@2Fire,@2Flying,@2Ghost,@2Ice,@2Poison,@3Bug,@3Dark,@3Fire,@3Flying,@3Ghost,@3Ice,@3Poison"
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Ice",
+    "filterString": "@1Bug,@1Fighting,@1Fire,@1Flying,@1Poison,@1Rock,@1Steel&@2Bug,@2Fighting,@2Fire,@2Flying,@2Poison,@2Rock,@2Steel,@3Bug,@3Fighting,@3Fire,@3Flying,@3Poison,@3Rock,@3Steel"
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Dragon",
+    "filterString": "@1Bug,@1Dragon,@1Flying,@1Fairy,@1Ice,@1Poison&@2Bug,@2Dragon,@2Flying,@2Fairy,@2Ice,@2Poison,@3Bug,@3Dragon,@3Flying,@3Fairy,@3Ice,@3Poison"
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Dark",
+    "filterString": "@1Bug,@1Fighting,@1Fire,@1Flying,@1Fairy,@1Ice,@1Poison&@2Bug,@2Fighting,@2Fire,@2Flying,@2Fairy,@2Ice,@2Poison,@3Bug,@3Fighting,@3Fire,@3Flying,@3Fairy,@3Ice,@3Poison"
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Fairy",
+    "filterString": "@1Fire,@1Flying,@1Ice,@1Poison,@1Steel&@2Fire,@2Flying,@2Ice,@2Poison,@2Steel,@3Fire,@3Flying,@3Ice,@3Poison,@3Steel"
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": "Psychic",
+    "filterString": "@1Bug,@1Dark,@1Ghost,@1Ground&@2Bug,@2Dark,@2Ghost,@2Ground,@3Bug,@3Dark,@3Ghost,@3Ground"
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": "Ice",
+    "filterString": "@1Fighting,@1Fire,@1Ground,@1Rock&@2Fighting,@2Fire,@2Ground,@2Rock,@3Fighting,@3Fire,@3Ground,@3Rock"
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": "Dragon",
+    "filterString": "@1Dragon,@1Ground,@1Fairy,@1Ice&@2Dragon,@2Ground,@2Fairy,@2Ice,@3Dragon,@3Ground,@3Fairy,@3Ice"
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": "Dark",
+    "filterString": "@1Bug,@1Fighting,@1Ground,@1Fairy&@2Bug,@2Fighting,@2Ground,@2Fairy,@3Bug,@3Fighting,@3Ground,@3Fairy"
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": "Fairy",
+    "filterString": "@1Ground,@1Poison&@2Ground,@2Poison,@3Ground,@3Poison"
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": "Ice",
+    "filterString": "@1Bug,@1Dark,@1Fire,@1Ghost,@1Rock,@1Steel&@2Bug,@2Dark,@2Fire,@2Ghost,@2Rock,@2Steel,@3Bug,@3Dark,@3Fire,@3Ghost,@3Rock,@3Steel"
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": "Dragon",
+    "filterString": "@1Bug,@1Dark,@1Dragon,@1Ghost,@1Fairy,@1Ice&@2Bug,@2Dark,@2Dragon,@2Ghost,@2Fairy,@2Ice,@3Bug,@3Dark,@3Dragon,@3Ghost,@3Fairy,@3Ice"
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": "Dark",
+    "filterString": "@1Bug,@1Fairy&@2Bug,@2Fairy,@3Bug,@3Fairy"
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": "Fairy",
+    "filterString": "@1Ghost,@1Poison,@1Steel&@2Ghost,@2Poison,@2Steel,@3Ghost,@3Poison,@3Steel"
+  },
+  {
+    "primaryType": "Ice",
+    "secondaryType": "Dragon",
+    "filterString": "@1Dragon,@1Fighting,@1Fairy,@1Rock,@1Steel&@2Dragon,@2Fighting,@2Fairy,@2Rock,@2Steel,@3Dragon,@3Fighting,@3Fairy,@3Rock,@3Steel"
+  },
+  {
+    "primaryType": "Ice",
+    "secondaryType": "Dark",
+    "filterString": "@1Bug,@1Fighting,@1Fire,@1Fairy,@1Rock,@1Steel&@2Bug,@2Fighting,@2Fire,@2Fairy,@2Rock,@2Steel,@3Bug,@3Fighting,@3Fire,@3Fairy,@3Rock,@3Steel"
+  },
+  {
+    "primaryType": "Ice",
+    "secondaryType": "Fairy",
+    "filterString": "@1Fire,@1Poison,@1Rock,@1Steel&@2Fire,@2Poison,@2Rock,@2Steel,@3Fire,@3Poison,@3Rock,@3Steel"
+  },
+  {
+    "primaryType": "Dragon",
+    "secondaryType": "Dark",
+    "filterString": "@1Bug,@1Dragon,@1Fighting,@1Fairy,@1Ice&@2Bug,@2Dragon,@2Fighting,@2Fairy,@2Ice,@3Bug,@3Dragon,@3Fighting,@3Fairy,@3Ice"
+  },
+  {
+    "primaryType": "Dragon",
+    "secondaryType": "Fairy",
+    "filterString": "@1Fairy,@1Ice,@1Poison,@1Steel&@2Fairy,@2Ice,@2Poison,@2Steel,@3Fairy,@3Ice,@3Poison,@3Steel"
+  },
+  {
+    "primaryType": "Dark",
+    "secondaryType": "Fairy",
+    "filterString": "@1Fairy,@1Poison,@1Steel&@2Fairy,@2Poison,@2Steel,@3Fairy,@3Poison,@3Steel"
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": null,
+    "filterString": "@1Fighting&@2Fighting,@3Fighting"
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": null,
+    "filterString": "@1Flying,@1Fairy,@1Psychic&@2Flying,@2Fairy,@2Psychic,@3Flying,@3Fairy,@3Psychic"
+  },
+  {
+    "primaryType": "Flying",
+    "secondaryType": null,
+    "filterString": "@1Electric,@1Ice,@1Rock&@2Electric,@2Ice,@2Rock,@3Electric,@3Ice,@3Rock"
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": null,
+    "filterString": "@1Ground,@1Psychic&@2Ground,@2Psychic,@3Ground,@3Psychic"
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": null,
+    "filterString": "@1Grass,@1Ice,@1Water&@2Grass,@2Ice,@2Water,@3Grass,@3Ice,@3Water"
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": null,
+    "filterString": "@1Fighting,@1Grass,@1Ground,@1Steel,@1Water&@2Fighting,@2Grass,@2Ground,@2Steel,@2Water,@3Fighting,@3Grass,@3Ground,@3Steel,@3Water"
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": null,
+    "filterString": "@1Fire,@1Flying,@1Rock&@2Fire,@2Flying,@2Rock,@3Fire,@3Flying,@3Rock"
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": null,
+    "filterString": "@1Dark,@1Ghost&@2Dark,@2Ghost,@3Dark,@3Ghost"
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": null,
+    "filterString": "@1Fighting,@1Fire,@1Ground&@2Fighting,@2Fire,@2Ground,@3Fighting,@3Fire,@3Ground"
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": null,
+    "filterString": "@1Ground,@1Rock,@1Water&@2Ground,@2Rock,@2Water,@3Ground,@3Rock,@3Water"
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": null,
+    "filterString": "@1Electric,@1Grass&@2Electric,@2Grass,@3Electric,@3Grass"
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": null,
+    "filterString": "@1Bug,@1Fire,@1Flying,@1Ice,@1Poison&@2Bug,@2Fire,@2Flying,@2Ice,@2Poison,@3Bug,@3Fire,@3Flying,@3Ice,@3Poison"
+  },
+    {
+    "primaryType": "Electric",
+    "secondaryType": null,
+    "filterString": "@1Ground&@2Ground,@3Ground"
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": null,
+    "filterString": "@1Bug,@1Dark,@1Ghost&@2Bug,@2Dark,@2Ghost,@3Bug,@3Dark,@3Ghost"
+  },
+  {
+    "primaryType": "Ice",
+    "secondaryType": null,
+    "filterString": "@1Fighting,@1Fire,@1Rock,@1Steel&@2Fighting,@2Fire,@2Rock,@2Steel,@3Fighting,@3Fire,@3Rock,@3Steel"
+  },
+  {
+    "primaryType": "Dragon",
+    "secondaryType": null,
+    "filterString": "@1Dragon,@1Fairy,@1Ice&@2Dragon,@2Fairy,@2Ice,@3Dragon,@3Fairy,@3Ice"
+  },
+  {
+    "primaryType": "Dark",
+    "secondaryType": null,
+    "filterString": "@1Bug,@1Fighting,@1Fairy&@2Bug,@2Fighting,@2Fairy,@3Bug,@3Fighting,@3Fairy"
+  },
+  {
+    "primaryType": "Fairy",
+    "secondaryType": null,
+    "filterString": "@1Poison,@1Steel&@2Poison,@2Steel,@3Poison,@3Steel"
+  }
+]

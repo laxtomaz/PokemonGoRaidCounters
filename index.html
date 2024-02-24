@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokémon Go: Raid Counters</title>
+  <!-- Include external stylesheets -->
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/badges.css">
+  <!-- Include the main JavaScript file as a module -->
+  <script type="module" src="js/index.js"></script>
+</head>
+<body>
+  <h1>
+    <!-- Info Modal -->
+    <div id="infoModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <p>This app allows you to select the perfect counter-attacker from your collection.</p>
+        <p>Using the filters, select the Pokémon type(s) that you're trying to defeat.</p>
+        <p>An in-game search string will appear for each of your filtered type(s).</p>
+        <p>Copy the string to your clipboard, and paste in-game to see who you can use!</p>
+      </div>
+    </div>
+    <!-- Info Button -->
+    <!-- <button id="infoButton" class="infoButton">
+      <svg width="50" height="50" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+        <path d="m25 0c-6.6304 0-12.989 2.6339-17.678 7.3223-4.6884 4.6884-7.3223 11.047-7.3223 17.678s2.6339 12.989 7.3223 17.678c4.6884 4.6884 11.047 7.3223 17.678 7.3223s12.989-2.6339 17.678-7.3223 7.3223-11.047 7.3223-17.678-2.6339-12.989-7.3223-17.678c-4.6884-4.6884-11.047-7.3223-17.678-7.3223z" fill="#fff" stroke-width=".96556"/>
+        <path d="m25 0c-6.6304 0-12.989 2.6339-17.678 7.3223-4.6884 4.6884-7.3223 11.047-7.3223 17.678s2.6339 12.989 7.3223 17.678c4.6884 4.6884 11.047 7.3223 17.678 7.3223s12.989-2.6339 17.678-7.3223 7.3223-11.047 7.3223-17.678-2.6339-12.989-7.3223-17.678c-4.6884-4.6884-11.047-7.3223-17.678-7.3223zm0 5c5.3043 0 10.391 2.1071 14.142 5.8579 3.7507 3.7507 5.8578 8.8378 5.8578 14.142s-2.1071 10.391-5.8578 14.142c-3.7508 3.7507-8.8379 5.8578-14.142 5.8578s-10.391-2.1071-14.142-5.8578c-3.7508-3.7508-5.8579-8.8379-5.8579-14.142s2.1071-10.391 5.8579-14.142c3.7507-3.7508 8.8378-5.8579 14.142-5.8579z" stroke-width=".96556"/>
+        <path d="m40.001 25.001c0 8.2842-6.7158 15-15 15-3.9783 0-7.7936-1.5804-10.607-4.3934-2.8131-2.8131-4.3934-6.6284-4.3934-10.607 0-3.9783 1.5803-7.7936 4.3934-10.607 2.813-2.8131 6.6283-4.3934 10.607-4.3934 3.9782 0 7.7935 1.5803 10.607 4.3934 2.813 2.813 4.3934 6.6283 4.3934 10.607z" stroke-width=".57934"/>
+        <path d="m24.803 12.617c-10.511 1.0655-9.2862 13.086-5.1563 12.705 5.3727-0.495 0.9173-8.1257 5.1953-7.8203 3.2063 0.2288 4.6733 4.3724-2.3516 8.7539-1.1837 0.7383-1.1296 5.2789 3.6309 4.123 2.3077-0.5603 0.2419-1.9053 1.7754-2.5957 8.8504-3.9846 6.6938-15.014-3.0937-15.166zm0.1972 18.734c-1.0608 0-2.0783 0.316-2.8284 0.8787-0.7502 0.5626-1.1716 1.3256-1.1716 2.1213 0 0.7956 0.4214 1.5587 1.1716 2.1213 0.7501 0.5626 1.7676 0.8787 2.8284 0.8787 1.0609 0 2.0783-0.3161 2.8284-0.8787 0.7502-0.5626 1.1716-1.3257 1.1716-2.1213 0-0.7957-0.4214-1.5587-1.1716-2.1213-0.7501-0.5627-1.7675-0.8787-2.8284-0.8787z" fill="#fff" stroke-width="3.5654"/>
+       </svg>
+    </button> -->
+    <!-- Heading Text -->
+    <span>Pokémon Go<br>Raid Counters</span>
+  </h1>
+  <!-- Main container for the application -->
+  <div id="main"></div>
+</body>
+</html>
