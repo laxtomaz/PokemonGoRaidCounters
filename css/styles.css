@@ -179,3 +179,17 @@ button#infoButton > svg {
   justify-content: center;
   align-items: center;
 }
+
+#list-container {
+  max-width: 500px;
+  min-width: 700px;
+}
+
+/* smaller screens */
+@media (max-width: 475px) {
+  #list-container {
+    min-width: 300px;
+    max-width: 300px;
+    text-align: center;
+  }
+}
