@@ -3,11 +3,6 @@ html {
   background: #3498db;
 }
 
-/* Margins */
-body {
-  margin: 5rem;
-}
-
 h1 {
   display: flex;
   align-items: center;
