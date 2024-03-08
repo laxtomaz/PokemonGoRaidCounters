@@ -1,4 +1,4 @@
-# Pokémon Counter-Attacker Selector
+# Pokémon Go Counter-Attacker Selector
 
 This app allows you to select the perfect counter-attacker from your collection. Using the filters, select the Pokémon type(s) that you're trying to defeat. An in-game search string will appear for each of your filtered type(s). Copy the string to your clipboard, and paste in-game to see who you can use!
 
